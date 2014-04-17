@@ -5,6 +5,8 @@ HTML/CSS design for a banner that displays a link inside your web app to your An
 
 <img src="http://asianmack.com/github/play-banner_framed.jpg" width="700" />
 
+[Live demo](http://blog.yanniks.de/play-store-smartbanner)
+
 Based on [Smart App Banner](https://github.com/glibin/smart-app-banner) by [Vitaly Glibin](https://github.com/glibin).
 
 Difference
@@ -12,4 +14,3 @@ Difference
 
 * Revised design
 * Revised HTML and CSS
-* No code...just design
